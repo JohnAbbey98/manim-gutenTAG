@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/test_function/4266129954_148240018_3128234676.mp4'
+file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/test_function/1442284246_2343940129_353885244.mp4'
+file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/test_function/1442284246_2131704664_439543716.mp4'

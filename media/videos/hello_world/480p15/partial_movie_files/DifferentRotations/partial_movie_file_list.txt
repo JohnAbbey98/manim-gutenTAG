@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/john/github/manim/media/videos/hello_world/480p15/partial_movie_files/DifferentRotations/4266129954_3211050415_1565692674.mp4'
+file 'file:/Users/john/github/manim/media/videos/hello_world/480p15/partial_movie_files/DifferentRotations/1442284246_3315967912_1497089965.mp4'
