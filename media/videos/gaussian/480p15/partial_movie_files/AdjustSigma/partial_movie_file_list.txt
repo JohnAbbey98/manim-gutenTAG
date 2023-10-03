@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/4266129954_2419572031_3840376205.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_4168936432_2015091386.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_3315967912_600793646.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_884326774_3759778343.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_3315967912_1009370431.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_705385513_1254356865.mp4'
-file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/AdjustSigma/1442284246_2397399527_2450746375.mp4'
