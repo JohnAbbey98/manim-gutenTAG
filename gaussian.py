@@ -15,6 +15,7 @@ def PDF_normal(x, mu, sigma):
 
     return scaled_pdf_value
 
+# token change
 
 # animation for generateMetapeaks
 class generateMetapeaks(Scene):
@@ -41,7 +42,6 @@ class generateMetapeaks(Scene):
 
         # Add labels for x and y axis
         x_label = MathTex("m/z").next_to(ax.x_axis, DOWN)
-
         y_label = MathTex("Counts").next_to(ax.y_axis, UP)
 
         self.add(ax, x_label, y_label)
