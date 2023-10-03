@@ -30,19 +30,20 @@ class generateMetapeaks(Scene):
             y_range=[0, 20000, 4000], 
 
             x_axis_config={
-                "color": WHITE,
+                "color": BLUE,
                 "include_numbers": True
             },
             y_axis_config={
-                "color": WHITE,
+                "color": BLUE,
                 "include_numbers": True 
             },
-            axis_config={"color": WHITE}
+            axis_config={"color": BLUE}
         )
 
         # Add labels for x and y axis
         x_label = MathTex("m/z").next_to(ax.x_axis, DOWN)
         y_label = MathTex("Counts").next_to(ax.y_axis, UP)
+
 
         self.add(ax, x_label, y_label)
 
@@ -88,7 +89,7 @@ class generateMetapeaks(Scene):
         for (x, y) in zip(x_values, y_values):
             start_point = ax.c2p(x, 0)  # bottom of the line (x-value, y_min)
             end_point = ax.c2p(x, y)   # top of the line (x-value, y_max)
-            line = DashedLine(start_point, end_point, color=BLUE, dash_length=0.1)
+            line = DashedLine(start_point, end_point, color=RED_B, dash_length=0.1)
             lines.add(line)
 
         # shift rightwards to avoid margin issues
