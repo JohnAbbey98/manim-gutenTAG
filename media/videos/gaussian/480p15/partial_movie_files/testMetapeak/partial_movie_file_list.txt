@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/john/github/manim/media/videos/gaussian/480p15/partial_movie_files/testMetapeak/123957003_2185200299_872906930.mp4'
