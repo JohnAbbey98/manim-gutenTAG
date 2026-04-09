@@ -1,6 +1,9 @@
 Repository for making illustrative animations for the MALDI-IHC project using manim.
 
-The below animation shows an idealised version of how the gutenTAG metapeak generation algorithm works.
+Using gutenTAG to segment individual peaks.
 
-https://github.com/JohnAbbey98/manim-gutenTAG/assets/89733453/a682109d-4f9e-4f48-8d79-c931661f04d5
+https://github.com/user-attachments/assets/2846fac2-c1e8-4b91-8d11-d87a3e3b0268
 
+Segment isotopic envelopes
+
+https://github.com/user-attachments/assets/113ef23f-4d11-43dd-a78f-bd3a4703a3a8
